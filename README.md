@@ -1,2 +1,2 @@
 # app - App
-> Business application 
+> Business Application 
